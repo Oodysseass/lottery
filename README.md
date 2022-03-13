@@ -1,1 +1,1 @@
-# lottery
+A C project reading a .txt file with the last lottery results. The user chooses an amount of numbers and a metric system (certain statistical parameter) and the program returns the corresponding results based on the last lotteries.
